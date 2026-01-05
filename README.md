@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kostasdol" alt="kostasdol" /></a> </p>
 
-- 🔭 I’m currently working for **CERTH**
+- 🔭 I’m currently working as a Machine Learning Engineer at CERTH, building production-ready ML solutions.
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m expanding my expertise in MLOps and model deployment at scale.
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I collaborate with teams on GCP cloud solutions and scalable ML pipelines.
 
 - 💬 Ask me about **ML models**
 
